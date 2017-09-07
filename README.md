@@ -1,7 +1,7 @@
 # Semgrex-Plus
 A modified version of the Stanford Semgrex package for dependency structures rewriting.
 
-Requirements:
+## Requirements:
 * ant
 * a C/C++ compiler (gcc)
 
@@ -17,7 +17,7 @@ Test the package with the provided scripts using the examples in [1]:
 > CheckRules.sh examples/tbconvOVERLAP.rules
 ```
 
-# References
+## References
 
 [1] Tamburini F. (2017). Semgrex-Plus: a tool for automatic dependency-graph rewriting. In Proc. International Conference on Dependency Linguistics - DepLing2017, Pisa. 
 
