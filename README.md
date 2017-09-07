@@ -18,4 +18,5 @@ Test the package with the provided scripts using the examples in [1]:
 ```
 
 [1] Tamburini F. (2017). Semgrex-Plus: a tool for automatic dependency-graph rewriting. In Proc. International Conference on Dependency Linguistics - DepLing2017, Pisa. 
-[2] Alfieri L., Tamburini F. (2016). (Almost) Automatic Conversion of the Venice Italian Treebank into the Merged Italian Dependency Treebank Format. In Proc. 3rd Italian Conference on Computational Linguistics - CLiC-IT 2016, Napoli, 5-6 December 2016, 19-23. [PDF] (http://corpora.ficlit.unibo.it/People/Tamburini/Pubs/CLiCIT2016-VIT2MIDT.pdf).
+
+[2] Alfieri L., Tamburini F. (2016). (Almost) Automatic Conversion of the Venice Italian Treebank into the Merged Italian Dependency Treebank Format. In Proc. 3rd Italian Conference on Computational Linguistics - CLiC-IT 2016, Napoli, 5-6 December 2016, 19-23. [PDF](http://corpora.ficlit.unibo.it/People/Tamburini/Pubs/CLiCIT2016-VIT2MIDT.pdf).
