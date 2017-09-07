@@ -1,0 +1,1 @@
+"{tag:Y}=1 >DEP=A {tag:X}=2 >DEP=B {tag:X}=3"	"{tag:A}=1 >D1=A {tag:C}=2 >D2=B {tag:C}=3"

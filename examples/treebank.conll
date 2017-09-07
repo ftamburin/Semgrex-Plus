@@ -1,0 +1,24 @@
+# 1
+1	w1	w1	t1	t1	_	0	root	_	_
+2	w2	w2	t2	t2	_	1	DEP	_	_
+3	w3	w3	t3	t3	_	6	DEP	_	_
+4	w4	w4	t4	t4	_	3	P	_	_
+5	w5	w5	t5	t5	_	4	N	_	_
+6	w6	w6	t6	t6	_	1	DEP	_	_
+7	w7	w7	t7	t7	_	8	N	_	_
+8	w8	w8	t8	t8	_	9	P	_	_
+9	w9	w9	t9	t9	_	6	DEP	_	_
+10	w10	w10	t10	t10	_	1	P	_	_
+
+# 2
+1	w1	w1	t1	t1	_	2	DEP	_	_
+2	w2	w2	t2	t2	_	0	root	_	_
+3	w3	w3	t3	t3	_	6	DEP1	_	_
+4	w4	w4	t4	t4	_	3	DEP1	_	_
+5	w5	w5	t5	t5	_	4	N	_	_
+6	w6	w6	t6	t6	_	2	P	_	_
+7	w7	w7	t7	t7	_	8	N	_	_
+8	w8	w8	t8	t8	_	10	DEP1	_	_
+9	w9	w9	t9	t9	_	2	DEP	_	_
+10	w10	w10	t10	t10	_	6	DEP1	_	_
+
