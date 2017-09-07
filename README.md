@@ -1,7 +1,7 @@
 # Semgrex-Plus
 A modified version of the Stanford Semgrex package for dependency structures rewriting useful for treebank maintenance, revision and conversion.
 
-## Requirements:
+Requirements:
 * ant
 * a C/C++ compiler (gcc)
 
